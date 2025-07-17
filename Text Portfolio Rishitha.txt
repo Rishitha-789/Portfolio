@@ -1,0 +1,42 @@
+* HOME
+home__social
+https://www.linkedin.com/in/rishitha-srivastav-4959771a0
+https://github.com/rishitha1697
+https://dribbble.com/
+
+home__description
+Experienced Data Scientist with a strong foundation in machine learning, data engineering, and business intelligence, delivering data-driven solutions across industries.
+
+* ABOUT
+about__description
+Data Science professional with 3+ years of experience in analytics, predictive modeling, and dashboarding. Skilled in Python, R, SQL, and tools like Tableau and Power BI. Proven ability to bridge data and business value.
+
+about__info-name
+Years <br> experience
+Completed <br> projects
+Companies <br> worked
+
+* SERVICES
+services__modal-service
+I build predictive models and analytical dashboards.
+Develop and automate ETL pipelines for large datasets.
+Visualize KPIs and performance using BI tools.
+Translate data insights into actionable business outcomes.
+
+* PORTFOLIO
+portfolio__description
+Real-world data science projects with end-to-end workflows — from data collection and wrangling to machine learning and deployment.
+
+* PROJECT
+project__description
+Let’s collaborate! Reach out today to start a high-impact data project that delivers measurable results.
+
+* TESTIMONIAL
+testimonial__description
+“Rishitha delivered our project on time and exceeded our expectations with high-quality visualizations and insights. She's collaborative, responsive, and highly skilled in analytics.”
+
+* FOOTER
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
